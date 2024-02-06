@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peng Zhang"
   avatar           : "photo.png"
-  bio              : "Ph.D. candidate of Xi'an Jiaotong University"
-  location         : "Location"
+  bio              : "Ph.D. candidate in computer technology at Xi'an Jiaotong University"
+  location         : "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cx70IfgAAAAJ&hl=zh-CN&authuser=1"
-  email            :
+  email            : "zp.xjtu@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/PengZhang-xjtu"
   google_plus      :
   keybase          :
   instagram        :
